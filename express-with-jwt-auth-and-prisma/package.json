@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
     "dotenv": "^16.4.7",
     "essentials-utils": "^1.2.11",
     "express": "^5.1.0",
@@ -31,6 +32,7 @@
     "@commitlint/config-conventional": "^19.8.0",
     "@eslint/js": "^9.24.0",
     "@types/cors": "^2.8.17",
+    "@types/crypto-js": "^4.2.2",
     "@types/express": "^5.0.1",
     "@types/jsonwebtoken": "^9.0.9",
     "@types/node": "^22.14.0",
