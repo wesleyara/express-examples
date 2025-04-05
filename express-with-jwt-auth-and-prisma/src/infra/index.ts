@@ -1,3 +1,4 @@
-export * from "./encrypt/encrypt.service";
-export * from "./jwt/jwt.service";
-export * from "./prisma/prisma.service";
+export * from "./encrypt/encrypt.module";
+export * from "./jwt/jwt.module";
+export * from "./prisma/prisma.module";
+export * from "./error-handler/error-handler.module";
